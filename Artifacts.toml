@@ -1,0 +1,216 @@
+[[Singular]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d619ee59276183347d8fcb0f61303d901517fa4e"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "b05cc7002e8827911f22f331263e2f9c921fe316d4cedd061cdd4b8844a4eb4d"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.aarch64-linux-gnu-cxx03.tar.gz"
+[[Singular]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1556fe4c04ef21315a0ba6e90c905fc036d6595d"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "d8514569a4f2eaa2e92d121c38d397149606d55d91c0c40834dedf514d50b9cc"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.aarch64-linux-gnu-cxx11.tar.gz"
+[[Singular]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3a4daef717a04e6356f0f2c4004a7bdfb12d8366"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "146ab21db64c6c3068c701ba50fcc441f0085bc6e6d57382999454d361216778"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.aarch64-linux-musl-cxx03.tar.gz"
+[[Singular]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5de534dc1aa3d59019ba08d058ffc98231020aff"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "8420d7d12895d09ceca8b7f44ab024be76b412b3f385448a13153d25f0e2d35b"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.aarch64-linux-musl-cxx11.tar.gz"
+[[Singular]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "073eb1a30aca2d95d9c7ec09e8df3ca5c185485c"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "87defeaa77a37aa0341d5fb029d0c8d0ed13e2f003b999b39d818f1ed4ca9324"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Singular]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be4537a937e7a1f98b0bedaa8780c6e4029e89a5"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "782525643405519779c491d0914a3b02c713cff6f6dfab968282e6f8e2813050"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Singular]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0a2651962db0d4b362d5588c4d3b85cc8e2778ad"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "4150ba993f73ce6212fe8ec9f0055602fcc45fd5e1794c9e6ca1f597727d2ece"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Singular]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1da267cb08e9212da2dcbc6fc3b759929525d197"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "a10bab7243a0863d2f99af96affa523c576f6de351c4c28d19416f9d498639b8"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Singular]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c2feb9f0fa254dcf69e6764e656b6bc70b563e94"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "8952ded21a7942e2edc7a30128312c1ab023eb1d03e0a24b6b1b39441d6d40f3"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.i686-linux-gnu-cxx03.tar.gz"
+[[Singular]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e8855e7c7c7c7b88c03f0422d99ba0f7e72d4e5"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "0fa9c06c34979c74b01202ac8d7d6aa37cdaff95723cb3e0d592e4152aa1d0bb"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.i686-linux-gnu-cxx11.tar.gz"
+[[Singular]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5938ed42895ac0397b081de6e0dc1c6a72f75005"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "1fa74ab07e6a7cdc1219fcd13ff8cbbd8c7448d08c0885094e389b02a2a9e26b"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.i686-linux-musl-cxx03.tar.gz"
+[[Singular]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7cdb55d9dd01b7cedadb624e7b2d62ee57443b97"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "fe18dc26be81012efac33ee8c1aaf3bb2adb0220bbcd0f0c2ad2deac93f2b7d5"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.i686-linux-musl-cxx11.tar.gz"
+[[Singular]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "01ade8d0652f5b63658e5dd8f0fb3076a6387915"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "98b397bafefb27686ee62e113cbfe624f56510623d9257fa8e3253acaf060f75"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Singular]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc8d2b9ed33308cb7e68074aa44b69028baab399"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "dba57914b88a4ec1fb98b4d4b03b9d89f444c980d1c4f7f19ae5c464321322a0"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "896f824735064155d7ce065ca29695319b9bfc61"
+os = "macos"
+
+    [[Singular.download]]
+    sha256 = "83357cd304f94e4493aa1f44511b48294896ff23db1b2ddebbe9d59393a68a97"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.x86_64-apple-darwin14-cxx03.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "72b778b3201d97b66f05437c961507aba19f7b33"
+os = "macos"
+
+    [[Singular.download]]
+    sha256 = "17b8ff5a64b76a217385aa1290f98da99a5d34c6879ed78fa9fe94f375f132d2"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.x86_64-apple-darwin14-cxx11.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "52cf26b6865f13738decb40bbaf129c2a78a8abd"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "6bc233a0166378b93cb60debcd832410cd088b42318e5f2add039a1efa268ce0"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.x86_64-linux-gnu-cxx03.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10370367da5250e1c88240742bcfd25d76fe2351"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "896ad280420406152765f00b15762c36d37c3c645d89ae5f20d47290592cae29"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.x86_64-linux-gnu-cxx11.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e671fde7ba200c9322ade96267210d6e09a0f8e"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "6764d11a487e0b7bc15b0c0bb8f89c68611f856c17ed8bb3e2ec5e7ffc62e702"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.x86_64-linux-musl-cxx03.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d815432bde59dc235fd1fa53cefdcce545e846c5"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "96b1b240ff9e8a44ac1a3d1c669e6f6ea828e42bb3fcaf73a9272245d895c1ee"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.x86_64-linux-musl-cxx11.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b745475bfa13faa3f8bad49e734eec9d933e9aae"
+os = "freebsd"
+
+    [[Singular.download]]
+    sha256 = "7fa3b0a0bfd2f1e8caeb76513f20f2e1a53616f7d14129776ded2c26b925948e"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d40bd4f35b1fa6ef9822cf15388f4bd4c7c0d55"
+os = "freebsd"
+
+    [[Singular.download]]
+    sha256 = "dad3a6f2afa8961536fa009438118726d402ec4e9eea8dac0d6dfaa0519a13b6"
+    url = "https://github.com/oscar-system/Singular_jll.jl/releases/download/Singular-v4.1.4-DEV+0/Singular.v4.1.4-DEV.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
